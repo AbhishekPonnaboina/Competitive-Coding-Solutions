@@ -30,4 +30,5 @@ Solved Questions Solutions
 | ------- |
 | [0190-reverse-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0191-number-of-1-bits) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->

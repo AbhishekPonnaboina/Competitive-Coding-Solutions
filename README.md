@@ -35,4 +35,9 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

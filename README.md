@@ -17,6 +17,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0061-rotate-list) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Solved Questions Solutions
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion

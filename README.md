@@ -33,6 +33,7 @@ Solved Questions Solutions
 | [0190-reverse-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0191-number-of-1-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
@@ -49,4 +50,8 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->

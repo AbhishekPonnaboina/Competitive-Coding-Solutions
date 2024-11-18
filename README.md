@@ -50,8 +50,13 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [3540-hash-divided-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3540-hash-divided-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0338-counting-bits) |
+## Simulation
+|  |
+| ------- |
+| [3540-hash-divided-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3540-hash-divided-string) |
 <!---LeetCode Topics End-->

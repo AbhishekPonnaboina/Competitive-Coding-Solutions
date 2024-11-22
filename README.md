@@ -53,6 +53,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3540-hash-divided-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3540-hash-divided-string) |
 ## Dynamic Programming
 |  |

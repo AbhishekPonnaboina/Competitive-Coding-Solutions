@@ -43,6 +43,7 @@ Solved Questions Solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -55,6 +56,7 @@ Solved Questions Solutions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0206-reverse-linked-list) |
@@ -87,4 +89,8 @@ Solved Questions Solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

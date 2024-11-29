@@ -6,6 +6,36 @@
 class Solution:
     def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         if head is None:
+            return head
+
+        curr = head
+        size = 1
+        while curr and curr.next:
+            size += 1
+            curr = curr.next
+        curr.next = head
+        
+        k = k % size
+        if k == 0:
+            curr.next = None
+            return head
+
+        t = size - k - 1
+        curr = head
+        while t: 
+            curr = curr.next
+            t -= 1
+
+        newhead = curr.next
+        curr.next = None
+
+        return newhead
+
+
+
+
+
+        """if head is None:
             return None
         if k == 0:
             return head
@@ -32,5 +62,5 @@ class Solution:
             curr2 = curr2.next
         curr2.next = head
         return temp.next
-
+"""
 

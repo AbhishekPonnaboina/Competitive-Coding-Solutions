@@ -19,14 +19,3 @@ class Solution:
             res1 += chr(97 + sum1) 
 
         return res1
-
-
-        
-        
-        
-        
-        
-        return s
-
-
-        

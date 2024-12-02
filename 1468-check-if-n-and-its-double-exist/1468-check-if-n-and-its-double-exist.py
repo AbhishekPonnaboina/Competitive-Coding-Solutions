@@ -1,8 +1,12 @@
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
-        for i in range(len(arr)-1):
-            for j in range(i+1,len(arr)):
-                if arr[i] == 2 * arr[j] or arr[j] == 2 * arr[i]:
-                    return True
+        myhash = set()
+
+        for i in arr:
+            if (2*i in myhash) or (i/2 in myhash):
+                return True
+            myhash.add(i)
+
+
         return False
         

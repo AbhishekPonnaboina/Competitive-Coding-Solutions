@@ -100,16 +100,20 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ Solved Questions Solutions
 | [0792-binary-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Solved Questions Solutions
 | ------- |
 | [0015-3sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0015-3sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3540-hash-divided-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3540-hash-divided-string) |
 ## Matrix
 |  |
@@ -97,6 +100,7 @@ Solved Questions Solutions
 | [0141-linked-list-cycle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
 | ------- |

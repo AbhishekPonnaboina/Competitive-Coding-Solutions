@@ -96,4 +96,20 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+## Depth-First Search
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+## Binary Tree
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 <!---LeetCode Topics End-->

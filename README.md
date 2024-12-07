@@ -11,6 +11,7 @@ Solved Questions Solutions
 | [0792-binary-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
@@ -18,6 +19,7 @@ Solved Questions Solutions
 | ------- |
 | [0792-binary-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Two Pointers
 |  |
 | ------- |

@@ -12,6 +12,7 @@ Solved Questions Solutions
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
@@ -20,6 +21,7 @@ Solved Questions Solutions
 | [0792-binary-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +39,7 @@ Solved Questions Solutions
 | ------- |
 | [0015-3sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0015-3sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
@@ -86,6 +89,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0338-counting-bits) |
+| [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 ## Simulation
 |  |
 | ------- |
@@ -133,4 +137,8 @@ Solved Questions Solutions
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->

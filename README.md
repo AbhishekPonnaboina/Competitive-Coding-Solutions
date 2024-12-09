@@ -15,6 +15,7 @@ Solved Questions Solutions
 | [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3427-special-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3427-special-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Solved Questions Solutions
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [3427-special-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3427-special-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,4 +143,8 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->

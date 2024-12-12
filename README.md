@@ -15,6 +15,7 @@ Solved Questions Solutions
 | [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3427-special-array-ii) |
 ## Binary Search
@@ -103,6 +104,7 @@ Solved Questions Solutions
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3540-hash-divided-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3540-hash-divided-string) |
 ## Matrix
 |  |
@@ -149,6 +151,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |

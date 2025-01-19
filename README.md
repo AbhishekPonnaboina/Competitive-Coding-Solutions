@@ -131,6 +131,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0002-add-two-numbers) |
+| [2556-convert-the-temperature](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2556-convert-the-temperature) |
 ## Tree
 |  |
 | ------- |

@@ -7,6 +7,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0015-3sum) |
+| [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0792-binary-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
@@ -113,6 +114,7 @@ Solved Questions Solutions
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
 ## String Matching
 |  |
@@ -140,11 +142,13 @@ Solved Questions Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -170,4 +174,8 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

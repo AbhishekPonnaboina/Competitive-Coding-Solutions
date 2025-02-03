@@ -102,6 +102,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0338-counting-bits) |
+| [0836-race-car](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0836-race-car) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 ## Simulation
 |  |

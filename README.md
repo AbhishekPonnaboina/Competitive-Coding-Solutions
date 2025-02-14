@@ -182,4 +182,8 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->

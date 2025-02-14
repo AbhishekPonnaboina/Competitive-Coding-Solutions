@@ -185,5 +185,6 @@ Solved Questions Solutions
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->

@@ -187,5 +187,6 @@ Solved Questions Solutions
 | ------- |
 | [0176-second-highest-salary](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0196-delete-duplicate-emails) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1625-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->

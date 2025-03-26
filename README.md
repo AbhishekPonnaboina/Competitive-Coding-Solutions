@@ -18,6 +18,7 @@ Solved Questions Solutions
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2107-find-unique-binary-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -58,6 +59,7 @@ Solved Questions Solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -133,6 +135,7 @@ Solved Questions Solutions
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0289-game-of-life) |
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -156,6 +159,7 @@ Solved Questions Solutions
 | [0002-add-two-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0202-happy-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2556-convert-the-temperature](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2556-convert-the-temperature) |
 ## Tree
 |  |

@@ -26,6 +26,7 @@ Solved Questions Solutions
 | [2888-minimum-index-of-a-valid-split](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3427-special-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3427-special-array-ii) |
 ## Binary Search
 |  |

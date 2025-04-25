@@ -226,6 +226,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0176-second-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1415-students-and-examinations) |

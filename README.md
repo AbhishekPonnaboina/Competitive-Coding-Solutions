@@ -231,6 +231,7 @@ Solved Questions Solutions
 | [1415-students-and-examinations](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1625-group-sold-products-by-the-date) |
+| [2057-count-salary-categories](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2057-count-salary-categories) |
 ## Backtracking
 |  |
 | ------- |

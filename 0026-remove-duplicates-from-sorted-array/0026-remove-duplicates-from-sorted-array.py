@@ -1,6 +1,23 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        fir = nums[0]
+        #two pointer
+        left = 1
+        right = 1
+
+        while right < len(nums):
+            if nums[right] != nums[left - 1]:
+                nums[left] = nums[right]
+                left += 1
+            right += 1
+
+             
+        del nums[left:]
+        return len(nums)
+        
+
+
+        #your way
+        """fir = nums[0]
         count = 1
 
         for i in range(1,len(nums)):
@@ -11,4 +28,4 @@ class Solution:
             count += 1
 
         del nums[count:]
-        return len(nums)
+        return len(nums)"""

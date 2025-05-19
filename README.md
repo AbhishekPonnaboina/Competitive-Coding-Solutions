@@ -16,6 +16,7 @@ Solved Questions Solutions
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2107-find-unique-binary-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |

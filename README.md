@@ -12,6 +12,7 @@ Solved Questions Solutions
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0289-game-of-life) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -67,6 +68,7 @@ Solved Questions Solutions
 | [0015-3sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -163,6 +165,7 @@ Solved Questions Solutions
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -226,6 +229,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Union Find

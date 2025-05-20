@@ -9,6 +9,7 @@ Solved Questions Solutions
 | [0015-3sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0120-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -76,6 +78,7 @@ Solved Questions Solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -157,6 +160,7 @@ Solved Questions Solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -221,6 +225,7 @@ Solved Questions Solutions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Union Find

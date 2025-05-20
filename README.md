@@ -9,6 +9,7 @@ Solved Questions Solutions
 | [0015-3sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0120-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -88,6 +89,7 @@ Solved Questions Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0191-number-of-1-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |

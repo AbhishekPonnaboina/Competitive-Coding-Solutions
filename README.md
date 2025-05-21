@@ -9,6 +9,7 @@ Solved Questions Solutions
 | [0001-two-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
@@ -55,6 +56,7 @@ Solved Questions Solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0202-happy-number) |
@@ -69,6 +71,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |

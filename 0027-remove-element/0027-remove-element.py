@@ -10,8 +10,7 @@ class Solution:
                 j -= 1
             if i < j:
                 arr[i],arr[j] = arr[j],arr[i]
-                i += 1
-                j -= 1
+
         return j + 1
 
 

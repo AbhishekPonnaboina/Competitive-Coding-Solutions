@@ -1,8 +1,7 @@
 class Solution:
     def sortArrayByParityII(self, arr: List[int]) -> List[int]:
         
-        even = 2
-        odd = 1
+
         i = 0
         j = len(arr) - 1
 

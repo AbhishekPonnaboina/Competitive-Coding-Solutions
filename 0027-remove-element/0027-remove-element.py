@@ -4,9 +4,9 @@ class Solution:
         j = len(arr) - 1
 
         while i <= j :
-            while i <= j and arr[i] != val :
+            while i < len(arr) and arr[i] != val :
                 i += 1
-            while i <= j and arr[j] == val:
+            while 0 <= j and arr[j] == val:
                 j -= 1
             if i < j:
                 arr[i],arr[j] = arr[j],arr[i]

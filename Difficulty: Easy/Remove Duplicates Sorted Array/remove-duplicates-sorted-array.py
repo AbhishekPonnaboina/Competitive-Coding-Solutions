@@ -1,19 +1,29 @@
 #User function template for Python
 
 class Solution:
-    def removeDuplicates(self, nums):
+    def removeDuplicates(self, arr):
         #Code Here
-        fir = nums[0]
-        count = 1
-
-        for i in range(1,len(nums)):
-            if nums[i] == fir:              
-                continue
-            fir = nums[i]
-            nums[i],nums[count] = nums[count],nums[i]
-            count += 1
-
-        del nums[count:]
+        left = 1
+        right = 1
+        
+        while right < len(arr):
+            if arr[right] != arr[right-1]:
+                arr[left] = arr[right]
+                left += 1
+            right += 1
+        
+        del arr[left:]
+        #print(arr)
+        return len(arr)
+        
+        
+        
+        
+        
+        
+        
+        
+        
         return len(nums)
 
 #{ 

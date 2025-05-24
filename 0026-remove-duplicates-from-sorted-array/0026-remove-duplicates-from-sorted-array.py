@@ -1,19 +1,28 @@
 class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
-        #two pointer
+    def removeDuplicates(self, arr: List[int]) -> int:
         left = 1
         right = 1
 
-        while right < len(nums):
-            if nums[right] != nums[left - 1]:
-                nums[left] = nums[right]
+        while right < len(arr):
+
+            if arr[right] != arr[right-1]:
+                arr[left] = arr[right]
                 left += 1
             right += 1
-
-             
-        del nums[left:]
-        return len(nums)
         
+        print(arr)
+        return left
+        
+
+
+
+
+
+
+
+
+
+
 
 
         #your way

@@ -1,7 +1,24 @@
 from collections import defaultdict
 class Solution:
     def intersection(self, nums: List[List[int]]) -> List[int]:
-        myhash = defaultdict(int)
+        l = set(nums[0])
+
+        for i in range(1,len(nums)):
+            l = l & set(nums[i])
+        l = list(l)
+        l.sort()
+        return l
+
+
+
+
+
+
+
+
+
+
+        """myhash = defaultdict(int)
         reslen = len(nums)
         res = []
 
@@ -12,12 +29,10 @@ class Solution:
         for k,v in myhash.items():
             if v == reslen:
                 res.append(k)
-        
-        print(myhash)
-        print(reslen)
+
         res.sort()
         #print(res)
         
-        return res
+        return res"""
 
         

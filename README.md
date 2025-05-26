@@ -144,6 +144,7 @@ Solved Questions Solutions
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3540-hash-divided-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3540-hash-divided-string) |
@@ -192,6 +193,7 @@ Solved Questions Solutions
 | [2107-find-unique-binary-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -255,6 +257,7 @@ Solved Questions Solutions
 | [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Union Find
 |  |

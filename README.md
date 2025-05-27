@@ -10,6 +10,7 @@ Solved Questions Solutions
 | [0015-3sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0120-triangle) |
@@ -170,6 +171,7 @@ Solved Questions Solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0289-game-of-life) |
@@ -204,6 +206,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0202-happy-number) |
 | [0728-self-dividing-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0728-self-dividing-numbers) |

@@ -228,12 +228,14 @@ Solved Questions Solutions
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -303,4 +305,8 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->

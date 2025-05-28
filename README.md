@@ -214,6 +214,7 @@ Solved Questions Solutions
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2556-convert-the-temperature](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Tree
 |  |
 | ------- |

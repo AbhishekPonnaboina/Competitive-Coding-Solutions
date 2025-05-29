@@ -74,6 +74,7 @@ Solved Questions Solutions
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -127,6 +128,7 @@ Solved Questions Solutions
 | [0206-reverse-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -293,6 +295,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Quickselect
 |  |
 | ------- |

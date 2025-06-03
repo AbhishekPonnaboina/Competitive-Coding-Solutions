@@ -37,6 +37,7 @@ Solved Questions Solutions
 | [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -79,6 +80,7 @@ Solved Questions Solutions
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -172,6 +174,7 @@ Solved Questions Solutions
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3540-hash-divided-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3540-hash-divided-string) |

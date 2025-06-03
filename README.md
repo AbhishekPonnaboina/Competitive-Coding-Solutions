@@ -15,6 +15,7 @@ Solved Questions Solutions
 | [0054-spiral-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
@@ -198,6 +199,7 @@ Solved Questions Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
@@ -285,6 +287,7 @@ Solved Questions Solutions
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 ## Database
 |  |

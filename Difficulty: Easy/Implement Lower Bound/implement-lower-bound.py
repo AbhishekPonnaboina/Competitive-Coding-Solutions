@@ -2,16 +2,16 @@
 class Solution:
     def lowerBound(self, arr, target):
         #code here
-        l,r = 0,len(arr)-1
+        low = 0
+        high = len(arr)-1
         res = len(arr)
         
-        while l <= r:
-            mid =  (l + r ) // 2
-            
+        while low <= high:
+            mid = (low + high ) // 2
             if arr[mid] >= target:
                 res = mid
-                r = mid - 1
-            
+                high = mid - 1
             else:
-                l = mid + 1
+                low = mid + 1
         return res
+            

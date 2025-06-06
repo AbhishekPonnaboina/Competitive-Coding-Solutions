@@ -1,12 +1,48 @@
 class Solution:
     def countFreq(self, arr, target):
         #code here
-        count=0
-        for i in range(0,len(arr)):
-            if arr[i] == target:
-                count+= 1
-        return count
-
+        
+        low,high = 0 , len(arr) - 1
+        first,second = -1,-1
+        while low <= high:
+            mid = (low + high) // 2
+            
+            if arr[mid] >= target:
+                first = mid
+                high = mid - 1
+            else:
+                low = mid + 1
+        
+        low,high = 0 , len(arr) - 1
+        
+        while low <= high:
+            mid = (low + high) // 2
+            
+            if arr[mid] > target:
+                second = mid
+                high = mid - 1
+            else:
+                low = mid + 1
+        #print(first,second)
+        if arr[-1] == target:
+            second = len(arr)
+        return second - first if first != -1 and second != -1 else 0
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 #{ 
  # Driver Code Starts
 #Initial Template for Python 3

@@ -19,34 +19,4 @@ class Solution:
                     righ -= 1
                 else:
                     lef += 1
-        return res 
-
-        
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        """for i in range(size):
-            l,r = i + 1 , size - 1
-
-            if nums[i] == nums[l] or nums[l] == nums[r] or nums[r] == nums[i]:
-                continue
-
-            while l < r:
-                if nums[l] + nums[r] == i:
-                    result.append([i,l,r])
-"""
-
-
-        return set(result)
-
-            
-        
+        return res

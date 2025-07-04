@@ -24,32 +24,3 @@ class Solution:
         elif curr2:
             new_head.next = curr2
         return dummy.next
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        """new_head = None
-        curr1 = list1
-        curr2 = list2
-
-        if list1.val < list2.val :
-            new_head = list1
-            curr1 = curr1.next
-        else:
-            new_head = list2
-            curr2 = curr2.next"""
-        
-        
-        

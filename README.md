@@ -94,6 +94,7 @@ Solved Questions Solutions
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -170,6 +171,7 @@ Solved Questions Solutions
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3194-find-words-containing-character](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3194-find-words-containing-character) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -350,4 +352,5 @@ Solved Questions Solutions
 | ------- |
 | [0409-longest-palindrome](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->

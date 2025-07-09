@@ -48,6 +48,7 @@ Solved Questions Solutions
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |

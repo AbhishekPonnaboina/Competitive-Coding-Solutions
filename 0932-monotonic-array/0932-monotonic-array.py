@@ -1,25 +1,16 @@
 class Solution:
     def isMonotonic(self, nums: List[int]) -> bool:
-        flag = 1
-        p1 = 0
+        if len(nums) == 1:
+            return True
+        incflag = 1
+        decflag = 1
 
         for i in range(1,len(nums)):
-            if nums[p1] >= nums[i]:
-                p1 += 1
-                continue
-            else:
-                flag = 0
-        if flag == 1:
-            return True
-        
-        flag = 1
-        p1 = 0
-        for i in range(1,len(nums)):
-            if nums[p1] <= nums[i]:
-                p1 += 1
-                continue
-            else:
-                flag = 0
-        if flag == 1:
+            if not (nums[i] <= nums[i-1]):
+                decflag = 0
+            if not (nums[i] >= nums[i-1]):
+                incflag = 0
+        if incflag or decflag:
             return True
         return False
+

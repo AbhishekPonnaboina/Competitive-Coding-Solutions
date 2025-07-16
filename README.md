@@ -259,12 +259,14 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -280,6 +282,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Heap (Priority Queue)
@@ -336,6 +339,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Quickselect
 |  |

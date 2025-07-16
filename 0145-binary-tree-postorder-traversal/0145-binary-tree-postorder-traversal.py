@@ -30,23 +30,7 @@ class Solution:
 
                 else:
                     curr = temp 
-        return res
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        return res         
         
         
         """

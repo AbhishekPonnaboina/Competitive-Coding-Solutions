@@ -11,10 +11,19 @@ class Solution:
         return max(self.height(root.left),self.height(root.right)) + 1
     
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        if not root:
-            return  0
-        d1 =  self.height(root.left) + self.height(root.right)
-        d2 =   self.diameterOfBinaryTree(root.left)
-        d3 = self.diameterOfBinaryTree(root.right)
+        global maxi
+        maxi = 0
 
-        return max(d1,d2,d3)
+        def maxiheight(root):
+            if not root:
+                return 0
+            
+            lh = maxiheight(root.left)
+            rh = maxiheight(root.right)
+            global maxi
+            maxi = max(maxi,lh+rh)
+
+            return 1 + max(lh,rh)
+
+        maxiheight(root)
+        return maxi

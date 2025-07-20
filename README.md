@@ -342,6 +342,7 @@ Solved Questions Solutions
 | [0180-consecutive-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0595-big-countries) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1462-list-the-products-ordered-in-a-period) |

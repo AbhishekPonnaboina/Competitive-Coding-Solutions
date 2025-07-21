@@ -349,6 +349,7 @@ Solved Questions Solutions
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1625-group-sold-products-by-the-date) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2057-count-salary-categories) |

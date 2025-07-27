@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/0">Right View of Binary Tree</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a Binary Tree, Your task is to return the values visible from <strong>Right view</strong> of it.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1">Right View of Binary Tree</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a Binary Tree, Your task is to return the values visible from <strong>Right view</strong> of it.</span></p>
 <blockquote>
 <p><span style="font-size: 18px;"> Right view of a Binary Tree is set of nodes visible when tree is viewed from <strong>right </strong>side.</span></p>
 </blockquote>

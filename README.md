@@ -136,6 +136,7 @@ Solved Questions Solutions
 | [0136-single-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0461-hamming-distance) |
@@ -163,6 +164,7 @@ Solved Questions Solutions
 | [0021-merge-two-sorted-lists](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -258,6 +260,7 @@ Solved Questions Solutions
 | [0048-rotate-image](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0231-power-of-two) |
 | [0728-self-dividing-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2032-largest-odd-number-in-string) |

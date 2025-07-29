@@ -165,6 +165,7 @@ Solved Questions Solutions
 | [0203-remove-linked-list-elements](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Solved Questions Solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0338-counting-bits) |
 | [0836-race-car](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0836-race-car) |
+| [1013-fibonacci-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1013-fibonacci-number) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 ## Simulation
 |  |
@@ -262,6 +264,7 @@ Solved Questions Solutions
 | [0202-happy-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0231-power-of-two) |
 | [0728-self-dividing-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0728-self-dividing-numbers) |
+| [1013-fibonacci-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1013-fibonacci-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -425,4 +428,8 @@ Solved Questions Solutions
 | [2032-largest-odd-number-in-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

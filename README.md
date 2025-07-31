@@ -17,6 +17,7 @@ Solved Questions Solutions
 | [0036-valid-sudoku](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -108,6 +109,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |

@@ -3,14 +3,14 @@ class Solution:
         arr.sort()
         print(arr)
         #its just the similiar pattern of merging overlaps
-        res = []
+        res = 0
         i = 0 
         lena = len(arr)
         while True:
             if i >= lena:
                 break
-            if len(res) == 0:
-                res.append(arr[i])
+            if res == 0:
+                res += 1
                 end = arr[i][1]
                 i += 1
             else:
@@ -20,11 +20,11 @@ class Solution:
                         print("im going in",arr[j])
                         end = min(end,arr[j][1])
                     else:
-                        res.append(arr[j])
+                        res += 1
                         i += 1
                         end =arr[j][1]
                         break
 
 
-        return len(res)
+        return res
             

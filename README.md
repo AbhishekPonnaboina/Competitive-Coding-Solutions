@@ -33,6 +33,7 @@ Solved Questions Solutions
 | [0283-move-zeroes](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0289-game-of-life) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
@@ -114,6 +115,7 @@ Solved Questions Solutions
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -427,6 +429,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0409-longest-palindrome) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |

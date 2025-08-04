@@ -264,6 +264,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0172-factorial-trailing-zeroes) |

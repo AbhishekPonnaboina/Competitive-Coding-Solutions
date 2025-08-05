@@ -20,6 +20,7 @@ Solved Questions Solutions
 | [0056-merge-intervals](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -138,6 +139,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0191-number-of-1-bits) |
@@ -402,6 +404,7 @@ Solved Questions Solutions
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0078-subsets) |
 | [2107-find-unique-binary-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2107-find-unique-binary-string) |
 ## Stack
 |  |

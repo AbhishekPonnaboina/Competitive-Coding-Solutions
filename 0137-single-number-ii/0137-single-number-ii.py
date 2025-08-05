@@ -1,21 +1,25 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        nums.sort()
+        #buckets method kinda complicated did using the strivers
+        ones,twos = 0,0
+
+        for i in range(len(nums)) :
+            ones = (nums[i]^ones) & ~twos
+            twos = (nums[i]^twos) & ~ones
+
+        return ones 
+
+        
+        
+        
+        
+        """nums.sort()
 
         for i in range(1,len(nums),3):
             if nums[i] != nums[i-1]:
                 return nums[i-1]
         else:
-            return nums[-1]
-
-
-
-
-
-
-
-
-
+            return nums[-1]"""
 
 
         #using bit wise bit counting method

@@ -22,6 +22,7 @@ Solved Questions Solutions
 | [0075-sort-colors](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0136-single-number) |
@@ -206,6 +207,7 @@ Solved Questions Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0338-counting-bits) |

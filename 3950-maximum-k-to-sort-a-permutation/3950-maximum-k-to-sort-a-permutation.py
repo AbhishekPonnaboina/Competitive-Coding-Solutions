@@ -9,5 +9,7 @@ class Solution:
                 ar = False
                 k = k & arr[i]
                 k = k & i
+                if k  == 0:
+                    break
         
         return 0 if ar else k

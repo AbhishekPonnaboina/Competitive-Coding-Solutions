@@ -8,7 +8,7 @@ class Solution:
             if arr[i] != i:
                 ar = False
                 k = k & arr[i]
-                k = k & i
+                # k = k & i
                 if k  == 0:
                     break
         

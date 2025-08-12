@@ -40,6 +40,7 @@ Solved Questions Solutions
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0932-monotonic-array) |
@@ -259,6 +260,7 @@ Solved Questions Solutions
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -368,6 +370,7 @@ Solved Questions Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3427-special-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |

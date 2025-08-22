@@ -41,6 +41,7 @@ Solved Questions Solutions
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0792-binary-search) |
@@ -80,6 +81,7 @@ Solved Questions Solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0162-find-peak-element) |
+| [0493-reverse-pairs](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -148,6 +150,7 @@ Solved Questions Solutions
 | [0190-reverse-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -468,4 +471,20 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ Solved Questions Solutions
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
@@ -223,6 +224,7 @@ Solved Questions Solutions
 | [0118-pascals-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0338-counting-bits) |
 | [0836-race-car](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0836-race-car) |
 | [1013-fibonacci-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1013-fibonacci-number) |

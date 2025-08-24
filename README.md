@@ -131,6 +131,7 @@ Solved Questions Solutions
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0645-set-mismatch) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -199,6 +200,7 @@ Solved Questions Solutions
 | [0014-longest-common-prefix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0409-longest-palindrome](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0812-rotate-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0812-rotate-string) |
@@ -270,6 +272,7 @@ Solved Questions Solutions
 | [0202-happy-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0645-set-mismatch) |

@@ -210,6 +210,7 @@ Solved Questions Solutions
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -447,6 +448,7 @@ Solved Questions Solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Quickselect
 |  |

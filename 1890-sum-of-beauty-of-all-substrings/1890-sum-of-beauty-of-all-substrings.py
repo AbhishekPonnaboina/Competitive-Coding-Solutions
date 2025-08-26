@@ -7,12 +7,16 @@ class Solution:
         res = 0
         
         for i in range(n):
-            hashmap = collections.defaultdict(int)
-            hashmap[s[i]] = 1
-            for j in range(i+1,n):
-                hashmap[s[j]] += 1
-                maxi = max(hashmap.values())
-                mini = min(hashmap.values())
+            freq = [0]*26
+            # hashmap = collections.defaultdict(int)
+            # hashmap[s[i]] = 1
+            for j in range(i,n): #i+1
+                idx = ord(s[j]) - ord("a")
+                freq[idx] += 1
+                maxi = max(freq)
+                mini = min(x for x in freq if x > 0)
+                # maxi = max(hashmap.values())
+                # mini = min(hashmap.values())
                 res += maxi - mini
                 
         return res

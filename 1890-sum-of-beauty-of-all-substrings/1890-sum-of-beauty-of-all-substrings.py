@@ -13,10 +13,24 @@ class Solution:
             for j in range(i,n): #i+1
                 idx = ord(s[j]) - ord("a")
                 freq[idx] += 1
-                maxi = max(freq)
-                mini = min(x for x in freq if x > 0)
-                # maxi = max(hashmap.values())
-                # mini = min(hashmap.values())
+                #this is what worked in gfg and also its better than calulating max every time instead 
+                #we could do only when value changes
+                maxi = float("-inf")
+                mini = float("inf")
+                for fr in freq:
+                    if fr > 0:
+                        if fr > maxi:
+                            maxi = fr
+                        if fr < mini:
+                            mini = fr 
+
+                #this was the second approach
+                # maxi = max(freq)
+                # mini = min(x for x in freq if x > 0)
+
+                                    #this was the first approach
+                                    # maxi = max(hashmap.values())
+                                    # mini = min(hashmap.values())
                 res += maxi - mini
                 
         return res

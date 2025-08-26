@@ -94,6 +94,7 @@ Solved Questions Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -198,6 +199,7 @@ Solved Questions Solutions
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0014-longest-common-prefix) |
@@ -228,6 +230,7 @@ Solved Questions Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |

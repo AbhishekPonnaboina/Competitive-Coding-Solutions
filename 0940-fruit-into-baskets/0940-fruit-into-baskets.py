@@ -8,6 +8,7 @@ class Solution:
         for r in range(n):
             hashmap[nums[r]] += 1
             # print("Hashmap before=",hashmap)
+           
             while len(hashmap) > 2:
                 hashmap[nums[l]] -= 1
                 if hashmap[nums[l]] == 0:

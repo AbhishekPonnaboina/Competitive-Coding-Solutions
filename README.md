@@ -48,6 +48,7 @@ Solved Questions Solutions
 | [0792-binary-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0932-monotonic-array) |
+| [0940-fruit-into-baskets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -291,6 +292,7 @@ Solved Questions Solutions
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0645-set-mismatch) |
+| [0940-fruit-into-baskets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -410,6 +412,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1813-maximum-erasure-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1813-maximum-erasure-value) |

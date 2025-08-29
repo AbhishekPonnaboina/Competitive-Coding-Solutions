@@ -9,13 +9,23 @@ class Solution:
         while r < n:
             hashmap[ord(s[r])-ord('A')] += 1
             maxfreq = max(maxfreq,hashmap[ord(s[r])-ord('A')])
-
-            while (r-l+1)- maxfreq > k:
+            # while loop replace with if cause we wanna keep looking for bigger 
+            # size than what we had so only removing one element helps
+            if (r-l+1)- maxfreq > k:
                 hashmap[ord(s[l])-ord('A')] -= 1
-                maxfreq = max(maxfreq,hashmap[ord(s[l])-ord('A')])
+                # maxfreq = max(maxfreq,hashmap[ord(s[l])-ord('A')])
+                # cause decrease maxfreq never contributes to the bigger answer
                 l += 1
             res = max(res,r-l+1)
             r += 1
+
+
+
+
+
+
+
+
             # if (r-l+1) - maxfreq <= k:
             #     res = max(res,r-l+1)
             #     r += 1

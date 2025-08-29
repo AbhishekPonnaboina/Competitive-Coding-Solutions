@@ -212,6 +212,7 @@ Solved Questions Solutions
 | [0242-valid-anagram](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0409-longest-palindrome](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -289,6 +290,7 @@ Solved Questions Solutions
 | [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0645-set-mismatch) |
@@ -412,6 +414,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |

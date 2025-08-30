@@ -54,6 +54,7 @@ Solved Questions Solutions
 | [1046-max-consecutive-ones-iii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -418,6 +419,7 @@ Solved Questions Solutions
 | [0966-binary-subarrays-with-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3427-special-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
@@ -430,6 +432,7 @@ Solved Questions Solutions
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |

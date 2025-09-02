@@ -1,6 +1,34 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
+        #recursion Implementation almost same just changing the while loop
+        s = s.strip()
+        if not s:
+            return 0
+        sign = 1
+        ans = 0
+        i = 0
 
+        if s[0] in ['-','+']:
+            if s[0] == '-':
+                sign = -1
+            i += 1
+        
+        def helper(i,ans=0):
+            if i >= len(s) or not s[i].isdigit():
+                return ans
+            ans = ans * 10 + (ord(s[i]) - ord('0'))
+            if sign == 1 and ans >= 2 ** 31 - 1:
+                return 2 ** 31 - 1
+            if sign == -1 and ans >= 2 ** 31:
+                return 2 ** 31
+            return helper(i+1,ans)
+        res = 0 + helper(i,0)
+
+        return sign * res
+
+
+
+        #this is for the string implementation i guess
         s = s.strip()
         if not s:
             return 0

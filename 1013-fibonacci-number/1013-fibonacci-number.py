@@ -1,7 +1,3 @@
 class Solution:
-    def fib(self, n: int) -> int:
-        if n == 0:
-            return 0
-        elif n == 1:
-            return 1
-        return self.fib(n-1) + self.fib(n-2)
+    def fib(self, N: int) -> int:
+        return round((pow(((math.sqrt(5)+1)/2),N))/math.sqrt(5))

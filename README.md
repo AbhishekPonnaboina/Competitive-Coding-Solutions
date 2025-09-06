@@ -203,6 +203,7 @@ Solved Questions Solutions
 | [0206-reverse-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -336,6 +337,7 @@ Solved Questions Solutions
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2556-convert-the-temperature](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2556-convert-the-temperature) |

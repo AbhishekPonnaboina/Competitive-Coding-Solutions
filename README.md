@@ -199,6 +199,7 @@ Solved Questions Solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0231-power-of-two) |
@@ -329,6 +330,7 @@ Solved Questions Solutions
 | [0013-roman-to-integer](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0231-power-of-two) |

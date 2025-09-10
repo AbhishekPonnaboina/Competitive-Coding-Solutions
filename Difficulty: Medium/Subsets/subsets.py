@@ -3,15 +3,22 @@
 class Solution:
     def subsets(self, arr):
         # code here
-        subsets = 2 ** len(arr)
-        res = [[]for _ in range(subsets)]
+        n = len(arr)
+        res = []
         
-        for i in range(subsets):
-            val = []
-            for j in range(len(arr)):
-                if i & 1 << j:
-                    val.append(arr[j])
-            res[i]=val
+        subset = []
         
-        res = sorted(res)
+        def BackTracking(i):
+            if i >= n:
+                res.append(subset.copy())
+                return
+            subset.append(arr[i])
+            BackTracking(i+1)
+            
+            subset.pop()
+            BackTracking(i+1)
+        
+        BackTracking(0)
+        res.sort()
         return res
+            

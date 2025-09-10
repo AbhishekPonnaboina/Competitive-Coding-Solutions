@@ -213,6 +213,7 @@ Solved Questions Solutions
 | [0008-string-to-integer-atoi](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -245,6 +246,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -488,6 +490,7 @@ Solved Questions Solutions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0078-subsets) |
 | [2107-find-unique-binary-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2107-find-unique-binary-string) |
 ## Stack

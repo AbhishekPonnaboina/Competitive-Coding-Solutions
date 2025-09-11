@@ -16,6 +16,7 @@ Solved Questions Solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0056-merge-intervals) |
@@ -491,6 +492,7 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0078-subsets) |
 | [2107-find-unique-binary-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2107-find-unique-binary-string) |
 ## Stack

@@ -1,8 +1,11 @@
 #User function Template for python3
 
 class Solution:
-    def combinationSum2(self, arr, k):
-        # Code here
+    
+    # Function to find all combinations of elements
+    # in array arr that sum to target.
+    def uniqueCombinations(self, arr, k):
+        # code here
         arr.sort()
         res = []
         n = len(arr)

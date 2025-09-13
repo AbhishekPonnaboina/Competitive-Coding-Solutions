@@ -38,6 +38,7 @@ Solved Questions Solutions
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0283-move-zeroes) |
@@ -499,6 +500,7 @@ Solved Questions Solutions
 | [0040-combination-sum-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0216-combination-sum-iii) |
 | [2107-find-unique-binary-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2107-find-unique-binary-string) |
 ## Stack
 |  |

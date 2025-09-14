@@ -221,6 +221,7 @@ Solved Questions Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0242-valid-anagram) |
@@ -256,6 +257,7 @@ Solved Questions Solutions
 | [0118-pascals-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0338-counting-bits) |
 | [0836-race-car](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0836-race-car) |
@@ -503,6 +505,7 @@ Solved Questions Solutions
 | [0040-combination-sum-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0216-combination-sum-iii) |
 | [2107-find-unique-binary-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2107-find-unique-binary-string) |
 ## Stack

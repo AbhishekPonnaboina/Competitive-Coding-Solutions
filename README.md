@@ -24,6 +24,7 @@ Solved Questions Solutions
 | [0073-set-matrix-zeroes](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0090-subsets-ii) |
@@ -221,6 +222,7 @@ Solved Questions Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -282,6 +284,7 @@ Solved Questions Solutions
 | [0048-rotate-image](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0289-game-of-life) |
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
@@ -377,6 +380,7 @@ Solved Questions Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0101-symmetric-tree) |
@@ -504,6 +508,7 @@ Solved Questions Solutions
 | [0039-combination-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0216-combination-sum-iii) |

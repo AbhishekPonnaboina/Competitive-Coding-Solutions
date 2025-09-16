@@ -85,6 +85,7 @@ Solved Questions Solutions
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3194-find-words-containing-character) |
 | [3427-special-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3427-special-array-ii) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -360,6 +361,7 @@ Solved Questions Solutions
 | [2556-convert-the-temperature](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Tree
 |  |
 | ------- |

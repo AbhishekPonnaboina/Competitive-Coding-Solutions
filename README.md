@@ -79,6 +79,7 @@ Solved Questions Solutions
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2350-find-closest-number-to-zero](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |

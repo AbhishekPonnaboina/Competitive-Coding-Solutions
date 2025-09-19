@@ -7,7 +7,7 @@ class Solution:
         for i in range(len(s1)):
             if s1[i] !=  s2[i]:
                 diff.append((s1[i],s2[i]))
-        
+        print(diff)
         if len(diff) != 2:
             return False
         

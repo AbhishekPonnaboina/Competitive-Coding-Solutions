@@ -234,6 +234,7 @@ Solved Questions Solutions
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -321,6 +322,7 @@ Solved Questions Solutions
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -480,6 +482,7 @@ Solved Questions Solutions
 | ------- |
 | [0169-majority-element](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -590,4 +593,8 @@ Solved Questions Solutions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

@@ -87,6 +87,7 @@ Solved Questions Solutions
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3194-find-words-containing-character) |
+| [3321-type-of-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3321-type-of-triangle) |
 | [3427-special-array-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3427-special-array-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
@@ -165,6 +166,7 @@ Solved Questions Solutions
 | [2888-minimum-index-of-a-valid-split](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3321-type-of-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -371,6 +373,7 @@ Solved Questions Solutions
 | [2556-convert-the-temperature](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3321-type-of-triangle) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Tree
 |  |

@@ -238,6 +238,7 @@ Solved Questions Solutions
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0282-expression-add-operators) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0409-longest-palindrome) |
@@ -365,6 +366,7 @@ Solved Questions Solutions
 | [0172-factorial-trailing-zeroes](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0282-expression-add-operators) |
 | [0728-self-dividing-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -536,6 +538,7 @@ Solved Questions Solutions
 | [0090-subsets-ii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0282-expression-add-operators) |
 | [2107-find-unique-binary-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2107-find-unique-binary-string) |
 ## Stack
 |  |

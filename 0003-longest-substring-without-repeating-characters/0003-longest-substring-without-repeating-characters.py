@@ -9,21 +9,13 @@ class Solution:
         while j < n:
             if s[j] in hashmap and hashmap[s[j]] >= i:
                     i = hashmap[s[j]] + 1
+                    # print(hashmap)
                     
             maxlena = max(maxlena,j-i+1)
             hashmap[s[j]] = j
             j += 1
         
         return maxlena
-
-
-
-
-
-
-
-
-
         #naive approach
         # n = len(s)
         # maxlen = 0

@@ -1,16 +1,62 @@
+from collections import defaultdict
 class Solution:
-    def countStableSubarrays(self, capacity: list[int]) -> int:
-        n = len(capacity)
-        prefix = [0]*(n+1)
-        for i, x in enumerate(capacity,1):
-            prefix[i] = prefix[i-1] + x
+    def countStableSubarrays(self, arr: list[int]) -> int:
+        """
+         # here comes the main prefix part actaully the formula for 
+            # prefix calculation is that sum(l...r) = prefix[r] - prefix[l-1] this gives sum from the l ... r
+            # but here we are trying not to include the r and l indexes 
+            # this is a custom prefix hashmap lookup accounting to three values being same
+            # okay and also this [0,0,0] or [0,0,0,0] this is was the main problem 
+            #but using left pointer with -2 gonna do the work 
+            # this way we only start from the 2 
+            # annd check correct values which was the main issue from earlier
+        """
+
+        n = len(arr)
+        prefix = [0] * (n+1)
+
+        for i,x in enumerate(arr):
+            prefix[i]= prefix[i-1] + x
+        # print(*prefix)
         ans = 0
-        cnt = {}
-        for r in range(2, n):
+        hashmap = {}
+
+        for r in range(2,n):
             l = r - 2
-            cnt[(capacity[l], prefix[l+1])] = cnt.get((capacity[l], prefix[l+1]), 0) + 1
-            ans += cnt.get((capacity[r], prefix[r] - capacity[r]), 0)
+            # print("key=",(arr[l],prefix[l]))
+            # print("val=",hashmap.get((arr[l],prefix[l]),0)+1)
+            hashmap[(arr[l],prefix[l])] = hashmap.get((arr[l],prefix[l]),0) + 1
+            # print("key we are looking for =",arr[r])
+            # print("the prefix we are looking for =",prefix[r-1]-arr[r])
+
+           
+            ans += hashmap.get((arr[r],prefix[r-1] - arr[r]),0)
         return ans
+
+
+
+
+        #this is not working when prefix becomes zero fuck this approach
+        # n = len(arr)
+        # hashmap = defaultdict(lambda : defaultdict(int))
+        # presum = 0
+        # ans = 0
+
+        # for i in range(n):
+        #     if i >= 2 and arr[i] in hashmap:
+        #         sub = hashmap[arr[i]]
+        #         ans += sub.get(presum - arr[i], 0)
+        #         print("yay")
+        #     presum += arr[i]
+        #     hashmap[arr[i]][presum] += 1
+        #     # print("first hashmp=",*hashmap ,"hashmapvalues=",hashmap[arr[i]])
+        #     print(hashmap)
+
+        # # print(hashmap)
+
+
+        # return ans
+
 
         
 

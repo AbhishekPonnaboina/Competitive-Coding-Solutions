@@ -201,6 +201,7 @@ Solved Questions Solutions
 | [0338-counting-bits](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0645-set-mismatch) |
+| [1610-xor-operation-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
@@ -383,6 +384,7 @@ Solved Questions Solutions
 | [1013-fibonacci-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |

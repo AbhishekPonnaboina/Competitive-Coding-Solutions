@@ -66,6 +66,7 @@ Solved Questions Solutions
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1791-richest-customer-wealth](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -315,6 +316,7 @@ Solved Questions Solutions
 | [0200-number-of-islands](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0289-game-of-life) |
 | [0898-transpose-matrix](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/0898-transpose-matrix) |
+| [1791-richest-customer-wealth](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String Matching
 |  |

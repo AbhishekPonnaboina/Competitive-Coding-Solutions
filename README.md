@@ -83,6 +83,7 @@ Solved Questions Solutions
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2350-find-closest-number-to-zero) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -394,6 +395,7 @@ Solved Questions Solutions
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2556-convert-the-temperature](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3321-type-of-triangle) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishekxx18/Competitive-Coding-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |

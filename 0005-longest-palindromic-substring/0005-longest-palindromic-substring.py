@@ -3,15 +3,12 @@ class Solution:
         n = len(s)
         if n <= 1:
             return s
-
         res = "" 
-
         def plaindrome(left,right):
             while left >=  0 and right < n and s[left] == s[right]:
                 left -= 1
                 right += 1
             return s[left+1:right]
-
         for i in range(n):
             odd = plaindrome(i,i)
             if len(odd) > len(res):
@@ -20,30 +17,7 @@ class Solution:
             if len(even)> len(res):
                 res = even
         return res
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        #this was all for generating every palindrome we can get from a string and itso(n^3) solution so trying to do better in the above approach
+#this was all for generating every palindrome we can get from a string and itso(n^3) solution so trying to do better in the above approach
         # n = len(s)
         # if n == 1:
         #     return s
